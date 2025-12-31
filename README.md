@@ -122,6 +122,6 @@ This project delivers a complete vendor performance analysis workflow, from data
 
 ---
 
-<img width="1010" height="569" alt="image" src="https://github.com/user-attachments/assets/36d73cc9-ebdf-4022-9015-e4197f969033" />
+<img width="1122" height="635" alt="image" src="https://github.com/user-attachments/assets/950d86f6-a448-492c-b947-108e20bed153" />
 
 
