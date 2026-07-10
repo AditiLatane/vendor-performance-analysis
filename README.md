@@ -124,4 +124,16 @@ This project delivers a complete vendor performance analysis workflow, from data
 
 <img width="1122" height="635" alt="image" src="https://github.com/user-attachments/assets/950d86f6-a448-492c-b947-108e20bed153" />
 
+---
+
+## 👩‍💻 Author & Contact
+
+**Aditi Latane**  
+*Aspiring Data Analyst*
+
+Email: aditiplatane@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/aditilataneofficial/)
+
+[Portfolio](https://aditi-latane-data-analyst-portfolio.vercel.app/)
 
